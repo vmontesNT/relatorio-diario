@@ -1,0 +1,22 @@
+# Ignorar ambiente virtual
+venv/
+
+# Ignorar arquivo de senhas (MUITO IMPORTANTE)
+.env
+
+# Ignorar arquivos de compilação (build/dist criados pelo pyinstaller)
+build/
+dist/
+*.spec
+
+# Ignorar logs e erros
+*.log
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos do Excel (se conterem dados reais de clientes)
+*.xlsx
+*.xlsm
+*.xls
