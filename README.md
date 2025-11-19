@@ -22,8 +22,8 @@ Para rodar este projeto, você precisará de:
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/SEU_USUARIO/relatorio-diario-automacao.git](https://github.com/SEU_USUARIO/relatorio-diario-automacao.git)
-    cd relatorio-diario-automacao
+    git clone [https://github.com/vmontesNT/relatorio-diario.git](https://github.com/vmontesNT/relatorio-diario.git)
+    cd relatorio-diario
     ```
 
 2.  Crie e ative um ambiente virtual:
