@@ -22,7 +22,7 @@ Para rodar este projeto, você precisará de:
 
 1.  Clone o repositório:
     ```bash
-    git clone [https://github.com/vmontesNT/relatorio-diario.git](https://github.com/vmontesNT/relatorio-diario.git)
+    git clone https://github.com/vmontesNT/relatorio-diario.git
     cd relatorio-diario
     ```
 
